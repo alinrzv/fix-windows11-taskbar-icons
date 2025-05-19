@@ -5,7 +5,7 @@ Delete registry entry and fix taskbar icons, after you run the script, restart p
 If you get an execution policy error, you can temporarily allow script execution with:
 
 powershell command
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 
 Batch File (Alternative)
 
